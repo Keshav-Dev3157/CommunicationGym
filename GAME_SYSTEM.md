@@ -454,3 +454,638 @@ The goal is not to create addicts.
 The goal is to create communicators.
 
 Every reward should encourage users to become someone who practices speaking every day.
+
+
+# GAME_SYSTEM.md
+
+## Phase 2 — Motivation, Rewards & Long-Term Progression
+
+---
+
+# Philosophy
+
+CommunicationGym should create discipline.
+
+Not addiction.
+
+Every reward exists to reinforce meaningful progress.
+
+Users should leave because they completed today's workout,
+
+not because the app trapped them.
+
+---
+
+# Achievement System
+
+Achievements celebrate milestones.
+
+They do not increase power.
+
+They exist to recognize commitment.
+
+Achievements are permanent.
+
+Once unlocked,
+
+they are never removed.
+
+---
+
+# Achievement Categories
+
+## Getting Started
+
+First Workout
+
+First Streak
+
+First Level Up
+
+First Perfect Week
+
+---
+
+## Consistency
+
+3 Day Streak
+
+7 Day Streak
+
+14 Day Streak
+
+30 Day Streak
+
+50 Day Streak
+
+100 Day Streak
+
+365 Day Streak
+
+---
+
+## Experience
+
+Level 5
+
+Level 10
+
+Level 25
+
+Level 50
+
+Level 75
+
+Level 100
+
+---
+
+## Practice
+
+10 Workouts
+
+25 Workouts
+
+50 Workouts
+
+100 Workouts
+
+250 Workouts
+
+500 Workouts
+
+1000 Workouts
+
+---
+
+## Communication Skills
+
+Storytelling Explorer
+
+Persuasion Builder
+
+Confident Speaker
+
+Interview Ready
+
+Presentation Pro
+
+Conversation Master
+
+Leadership Voice
+
+These are unlocked naturally as users complete skill-based workouts.
+
+---
+
+# Achievement Visibility
+
+Visible Achievements
+
+Users see these from Day 1.
+
+They understand what they can work toward.
+
+---
+
+Hidden Achievements
+
+Reserved for memorable moments.
+
+Examples
+
+365 Day Streak
+
+Master Communicator
+
+One Year Without Missing
+
+Community Pioneer
+
+These create surprise.
+
+---
+
+# Achievement Rewards
+
+Achievements provide
+
+Recognition
+
+Badge
+
+Celebration
+
+Profile Display
+
+No gameplay advantage.
+
+No pay-to-win mechanics.
+
+---
+
+# Weekly Leagues
+
+Purpose
+
+Create friendly competition.
+
+Not stress.
+
+---
+
+## League Structure
+
+Bronze
+
+↓
+
+Silver
+
+↓
+
+Gold
+
+↓
+
+Platinum
+
+↓
+
+Diamond
+
+↓
+
+Master
+
+↓
+
+Champion
+
+Users move up or down weekly.
+
+Movement depends on Weekly XP.
+
+---
+
+# Promotion
+
+Top 20%
+
+Move Up
+
+---
+
+Middle 60%
+
+Remain
+
+---
+
+Bottom 20%
+
+Move Down
+
+---
+
+The exact percentages may be tuned after launch.
+
+---
+
+# League Rewards
+
+Promotion Celebration
+
+Unique Badge
+
+Profile Recognition
+
+Special Border (Future)
+
+Never exclusive features.
+
+Everyone has access to the same learning experience.
+
+---
+
+# Daily Habit Philosophy
+
+One meaningful workout is more valuable than ten rushed ones.
+
+CommunicationGym intentionally limits progression to one Daily Workout.
+
+Practice is unlimited.
+
+Progression is not.
+
+---
+
+# Daily Challenge
+
+Every day includes one featured workout.
+
+That workout is globally shared.
+
+This creates a shared experience across the community.
+
+Users know everyone else completed the same challenge today.
+
+---
+
+# Weekly Theme
+
+Future feature.
+
+Each week focuses on one communication skill.
+
+Examples
+
+Storytelling Week
+
+Interview Week
+
+Leadership Week
+
+Persuasion Week
+
+Networking Week
+
+Confidence Week
+
+This provides structure without restricting choice.
+
+---
+
+# Seasonal Events
+
+Future feature.
+
+Examples
+
+30-Day Confidence Challenge
+
+Campus Communication Cup
+
+Interview Preparation Month
+
+Founder Speaking Sprint
+
+Events introduce new motivation without changing core mechanics.
+
+---
+
+# Reward Cadence
+
+Every action should not produce a reward.
+
+Important moments deserve attention.
+
+---
+
+Celebrate
+
+Workout Complete
+
+XP Earned
+
+Level Up
+
+Achievement Unlocked
+
+League Promotion
+
+Communication Rank
+
+Milestone Streak
+
+---
+
+Do Not Celebrate
+
+Opening the App
+
+Changing Theme
+
+Viewing Profile
+
+Editing Settings
+
+Refreshing the Page
+
+Users should never become numb to rewards.
+
+---
+
+# Skill Progression
+
+In addition to XP,
+
+users quietly improve communication skills.
+
+Examples
+
+Storytelling
+
+Clarity
+
+Persuasion
+
+Vocabulary
+
+Structure
+
+Confidence
+
+Leadership
+
+Interviewing
+
+Networking
+
+These values influence future recommendations.
+
+They should never become overwhelming statistics.
+
+---
+
+# Personal Bests
+
+Always compare users against themselves.
+
+Examples
+
+Highest Score
+
+Longest Streak
+
+Longest Speaking Session
+
+Best Month
+
+Biggest Improvement
+
+Most XP in One Week
+
+This reinforces self-improvement over comparison.
+
+---
+
+# Burnout Prevention
+
+CommunicationGym should never punish breaks.
+
+If a user returns after several missed days,
+
+the product should welcome them back.
+
+Never display guilt.
+
+Never say
+
+"You missed 12 days."
+
+Instead
+
+"Welcome back.
+
+Let's continue where you left off."
+
+The goal is lifetime practice,
+
+not perfect attendance.
+
+---
+
+# Community Philosophy
+
+Competition should inspire.
+
+Community should encourage.
+
+Users should never feel embarrassed by beginner performance.
+
+Public displays should celebrate consistency,
+
+not perfection.
+
+---
+
+# Premium Philosophy
+
+Premium should expand learning.
+
+Never restrict habits.
+
+Examples
+
+Unlimited AI Practice
+
+Mock Interviews
+
+Sales Simulations
+
+Negotiation Coach
+
+Presentation Coach
+
+Conversation Coach
+
+Advanced Analytics
+
+Custom Learning Paths
+
+Daily Workout always remains free.
+
+---
+
+# Reward Economy
+
+The product has only one primary currency.
+
+XP.
+
+Avoid introducing:
+
+Coins
+
+Gems
+
+Tokens
+
+Energy
+
+Lives
+
+Hearts
+
+CommunicationGym is a training platform.
+
+Not a mobile game.
+
+---
+
+# Long-Term Identity
+
+After one year,
+
+users should not identify themselves by their score.
+
+They should identify themselves by the person they have become.
+
+Example
+
+"I've been training my communication every day."
+
+This identity is more valuable than any badge.
+
+---
+
+# Future Progression
+
+Reserved for future releases.
+
+Mentor Status
+
+Verified Speaker
+
+Coach Certification
+
+Community Ambassador
+
+Educator Program
+
+Campus Champion
+
+These should build naturally on the existing progression system.
+
+---
+
+# Metrics to Monitor
+
+After launch,
+
+measure:
+
+Daily Workout Completion Rate
+
+Average Streak Length
+
+Day 1 Retention
+
+Day 7 Retention
+
+Day 30 Retention
+
+Average XP Earned
+
+League Participation
+
+Achievement Unlock Rate
+
+Returning User Rate
+
+The game system should evolve using real user behavior,
+
+not assumptions.
+
+---
+
+# Anti-Addiction Principle
+
+CommunicationGym should never manipulate users into unhealthy engagement.
+
+Avoid:
+
+Artificial scarcity
+
+Fear of missing out
+
+Excessive notifications
+
+Random reward loops
+
+Infinite scrolling
+
+Dark patterns
+
+The product should create confidence,
+
+not dependency.
+
+---
+
+# Steve Jobs Test
+
+Remove:
+
+XP
+
+Levels
+
+Achievements
+
+Leaderboards
+
+Would the product still help people become better communicators?
+
+If yes,
+
+the learning experience is strong.
+
+If no,
+
+the game has become more important than the mission.
+
+Redesign.
+
+---
+
+# Final Principle
+
+The greatest achievement is not reaching Level 100.
+
+It is becoming someone who no longer feels afraid to speak.
+
+Every game mechanic should quietly support that transformation.
+
+That is the true win condition of CommunicationGym.
